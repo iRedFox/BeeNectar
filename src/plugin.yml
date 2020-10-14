@@ -1,0 +1,15 @@
+name: BeeNectar
+main: me.redfox.Main
+version: 1.0
+api-version: 1.16
+author: RedFox
+commands:
+  BeeNectar:
+      description: For testing..
+      permission: BeeNectar.potion
+  BeeNectar summon:
+    description: Spawns a bee with nectar.
+    permission: BeeNectar.admin
+  BeeNectar reload:
+    description: Reloads the config.
+    permission: BeeNectar.admin

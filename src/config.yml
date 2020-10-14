@@ -1,0 +1,20 @@
+# DropChance: %50 chance to drop the potion
+
+# EffectType: Potion effect
+# EffectDelay: The effect would last for 20 seconds.
+
+# FlyPower: true =  yes, false = no fly power from the potion.
+# FlyDelay: The fly power lasts for 10secs.
+
+Potion:
+  DropChance: 50
+  EffectType: GLOWING
+  EffectDelay: 20
+  FlyPower: true
+  FlyDelay: 10
+
+# AngerLastsFor: How long should the anger of the bee last? set it to -1 if you want to disable it
+# Death: Do you want to kill the bee after milking it? true = yes, false = no.
+Bee:
+  AngerLastsFor: 200
+  Death: false

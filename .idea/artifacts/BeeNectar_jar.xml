@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BeeNectar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BeeNectar_jar</output-path>
+    <root id="archive" name="BeeNectar.jar">
+      <element id="module-output" name="BeeNectar" />
+    </root>
+  </artifact>
+</component>
